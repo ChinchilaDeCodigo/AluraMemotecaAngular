@@ -29,7 +29,8 @@ export class CriarPensamentoComponent implements OnInit {
         Validators.minLength(5),
         //minusculoValidator
       ])],
-      modelo: ['modelo1']
+      modelo: ['modelo1'],
+      favorito: [false]
     })
   }
 

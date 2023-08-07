@@ -4,42 +4,49 @@
       "id": 1,
       "conteudo": "Que bom que você veio",
       "autoria": "Nay",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Em qualquer realidade",
       "autoria": "M.",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "AAANNNAAAAAA",
       "autoria": "Maluco x",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "Pensamento de teste",
       "autoria": "Dev Angular",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Hello guys",
       "autoria": "Squewe",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 5
     },
     {
       "conteudo": "Letras minúsculas",
       "autoria": "sssss",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "Pensamento mais um",
       "autoria": "Um pensador",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 7
     }
   ]
